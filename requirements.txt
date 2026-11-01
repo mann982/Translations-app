@@ -1,0 +1,7 @@
+streamlit
+requests
+langdetect
+python-docx
+pymupdf
+beautifulsoup4
+lxml
